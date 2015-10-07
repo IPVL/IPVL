@@ -1,0 +1,9 @@
+[submodule "Tanvin-PythonWorks"]
+	path = Tanvin-PythonWorks
+	url = https://github.com/IPVL/Tanvin-PythonWorks.git
+[submodule "Ahsan-PythonWorks"]
+	path = Ahsan-PythonWorks
+	url = https://github.com/IPVL/Ahsan-PythonWorks.git
+[submodule "Ahsan-WSGIExample"]
+	path = Ahsan-WSGIExample
+	url = https://github.com/IPVL/Ahsan-WSGIExample.git
