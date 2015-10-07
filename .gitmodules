@@ -7,3 +7,27 @@
 [submodule "Ahsan-WSGIExample"]
 	path = Ahsan-WSGIExample
 	url = https://github.com/IPVL/Ahsan-WSGIExample.git
+[submodule "Smrity-WSGI"]
+	path = Smrity-WSGI
+	url = https://github.com/IPVL/Smrity-WSGI.git
+[submodule "Smrity-PythonWorks"]
+	path = Smrity-PythonWorks
+	url = https://github.com/IPVL/Smrity-PythonWorks.git
+[submodule "Tanvir-WSGI"]
+	path = Tanvir-WSGI
+	url = https://github.com/IPVL/Tanvir-WSGI.git
+[submodule "Jishnu-WSGI"]
+	path = Jishnu-WSGI
+	url = https://github.com/IPVL/Jishnu-WSGI.git
+[submodule "Jishnu-PythonWorks"]
+	path = Jishnu-PythonWorks
+	url = https://github.com/IPVL/Jishnu-PythonWorks.git
+[submodule "Arun-SocketExample"]
+	path = Arun-SocketExample
+	url = https://github.com/IPVL/Arun-SocketExample
+[submodule "LoggingExample"]
+	path = LoggingExample
+	url = https://github.com/IPVL/LoggingExample
+[submodule "JNoor-PythonExtension"]
+	path = JNoor-PythonExtension
+	url = https://github.com/IPVL/JNoor-PythonExtension.git
