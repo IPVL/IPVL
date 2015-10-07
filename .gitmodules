@@ -31,3 +31,6 @@
 [submodule "JNoor-PythonExtension"]
 	path = JNoor-PythonExtension
 	url = https://github.com/IPVL/JNoor-PythonExtension.git
+[submodule "PythonThreads"]
+	path = PythonThreads
+	url = https://github.com/Ahsanul08/PythonThreads.git
